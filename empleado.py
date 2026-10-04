@@ -93,3 +93,6 @@ class Empleado(Usuario):
         finally:
             if conexion:
                 conexion.close()
+
+
+# Yerko Aranda

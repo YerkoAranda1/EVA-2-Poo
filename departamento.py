@@ -82,4 +82,4 @@ class Departamento:
             if conexion:
                 conexion.close()
 
-    
+# Yerko Aranda
